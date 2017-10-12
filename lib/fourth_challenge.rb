@@ -39,3 +39,6 @@ def fourth_challenge
 
 
 end
+
+capulet[heroine][status] = "alive"
+montague[hero][status] = "alive"
