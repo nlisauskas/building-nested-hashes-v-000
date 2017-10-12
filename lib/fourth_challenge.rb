@@ -40,5 +40,5 @@ def fourth_challenge
 
 end
 
-capulet[heroine][status] = "alive"
-montague[hero][status] = "alive"
+epic_tragedy[capulet][heroine][status] = "alive"
+epic_tragedy[montague][hero][status] = "alive"
